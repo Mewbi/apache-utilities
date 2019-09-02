@@ -2,6 +2,7 @@
 
 cat << END
 
+
 			Apache Utilities
 
 
@@ -14,8 +15,7 @@ cat << END
 	[ Ajuda ] - help.sh
 	Imprime o menu de ajuda, que contém as opções existentes que podem ser usadas.
 
-Link: encurtador.com.br/aeT24
-	  raw.githubusercontent.com/Mewbi/apache-utilities/master/help.sh
+Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/help.sh
 	  
 
 
@@ -60,4 +60,6 @@ disable="nome-da-pasta-do-site"
 	Caso o arquivo não tenha sido criado, ou sua variável esteja vazia será impresso todos os sites existentes no servidor.
 
 Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/
+
+
 END
