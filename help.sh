@@ -22,7 +22,7 @@ Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/help.sh
 	[ Instalador ] - install.sh
 	Realiza a instalação do apache (utilizando-se do apt-get).
 
-Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/
+Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/install.sh
 
 
 
@@ -35,7 +35,7 @@ modelo="[1-3]"
 
 	É possível escolher entre 3 modelos diferentes de site para ser usado como página padrão.
 
-Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/
+Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/create.sh
 
 
 
@@ -47,7 +47,7 @@ ativar="nome-da-pasta-do-site"
 
 	Caso o arquivo não tenha sido criado, ou sua variável esteja vazia será impresso todos os sites existentes no servidor.
 
-Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/
+Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/ative.sh
 
 
 
@@ -59,7 +59,7 @@ disable="nome-da-pasta-do-site"
 
 	Caso o arquivo não tenha sido criado, ou sua variável esteja vazia será impresso todos os sites existentes no servidor.
 
-Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/
+Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/disable.sh
 
 
 END
