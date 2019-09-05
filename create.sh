@@ -32,7 +32,7 @@ case $modelo in
 	wget raw.githubusercontent.com/Mewbi/apache-utilities/master/models/1/parallax.jpg
 	mv index.html /var/www/$nome/public_html
 	mv style.css /var/www/$nome/public_html
-	mv parallax.css /var/www/$nome/public_html
+	mv parallax.jpg /var/www/$nome/public_html
 	;;
 
 	2)
