@@ -3,7 +3,7 @@
 #Verificando arquivos necessários
 if [ -s "apache-utilities-create.txt" ]; then
 	source apache-utilities-create
-
+	echo -e "\nArquivo "apache-utilities-create" encontrado!\n"
 else
 	cat << END
 
