@@ -27,8 +27,12 @@ chmod -R 755 /var/www
 #Inserindo página HTML
 case $modelo in
 	1)
-	wget raw.githubusercontent.com/Mewbi/apache-utilities/master/models/index.html
-	mv index.html  /var/www/$nome/public_html
+	wget raw.githubusercontent.com/Mewbi/apache-utilities/master/models/1/index.html
+	wget raw.githubusercontent.com/Mewbi/apache-utilities/master/models/1/style.css
+	wget raw.githubusercontent.com/Mewbi/apache-utilities/master/models/1/parallax.jpg
+	mv index.html /var/www/$nome/public_html
+	mv style.css /var/www/$nome/public_html
+	mv parallax.css /var/www/$nome/public_html
 	;;
 
 	2)
