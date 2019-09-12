@@ -55,7 +55,7 @@ Link: raw.githubusercontent.com/Mewbi/apache-utilities/master/ative.sh
 	Desativa um site dos existentes no servidor.
 	Para seu funcionamento é necessário criar um arquivo txt com o nome "apache-utilities-disable.txt" no diretório atual com as seguintes informações:
 
-disable="nome-da-pasta-do-site"
+desativar="nome-da-pasta-do-site"
 
 	Caso o arquivo não tenha sido criado, ou sua variável esteja vazia será impresso todos os sites existentes no servidor.
 
