@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
 
 .parallax {
     background-image: url("parallax.jpg");
@@ -21,6 +21,14 @@
     animation-iteration-count: 1;
 }
 
+.box {
+    width: 40%;
+    min-height: 300px;
+    border-radius: 20px;
+    background-color: #666666;
+    align-items: center;
+}
+
 @keyframes anim-fadein{
     from {
         opacity: 0;
@@ -31,8 +39,8 @@
 
 h1 {
 	font-size: 120px;
-	font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  font-variant: small-caps;
+	font-family: 'Poiret One', cursive;
+    font-weight: 300;
+    font-variant: small-caps;
 	color: #ffffff;
 }
